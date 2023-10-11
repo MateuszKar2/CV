@@ -1,0 +1,35 @@
+body {
+    margin: 50px;
+}
+
+section {
+    max-width: 800px;
+}
+
+.experience {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.position {
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    gap: 100px;
+
+}
+
+.title {
+    font-size: 40px;
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+    display: flex;
+    justify-content: center;
+}
+
+.project {
+    font-size: 20px;
+    padding-left: 200px;
+    font-family: 'Times New Roman', Times, serif;
+}
